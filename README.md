@@ -57,7 +57,7 @@ app_audio.py: Speech recognition from audio file.
 $ python3 app_audio.py 
     Done recording
     Recognizing the text
-    Decoded Text : python programming is the best of all by Jordan
+    Decoded Text : Python Programming is the best of all
 ```
 
 long_audio.py: Processing long audio files in chunks.
@@ -65,5 +65,5 @@ long_audio.py: Processing long audio files in chunks.
 $ python3 app_audio.py 
     Done recording
     Recognizing the text
-    Decoded Text : python programming is the best of all by Jordan
+    Decoded Text : Python Programming is the best of all
 ```
